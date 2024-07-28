@@ -1,4 +1,5 @@
- Research paper 1 :  Research final 
+ Research paper 1 :  Research final .
+
 Research Paper on  INNOVATIVE-METHODS-OF-TEACHING-AND-LEARNING-FOR-EDUCATION .
 The paper "Innovative Methods of Teaching and Learning for Education 2024" explores new approaches like problem-based learning and flipped classrooms to enhance education outcomes, emphasizing creativity, critical thinking, and technology integration.
  Education is a process of facilitating learning of knowledge, skill values and habits. Basically, teaching must include two major components sending and receiving information. Ultimately a teacher tries his best to impart knowledge as the way he understood it. The purpose of the education is not only to make the students literate but also to make them creative, knowledgeable, think of their own and to meet the workforce. The success of a student depends on the teacher and the innovative methods which they incorporate in teaching. The use of innovative methods in educational 
