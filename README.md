@@ -1,4 +1,4 @@
- Research paper 1 :  Research final .
+ Research paper #1 :  Research final .
 
 Research Paper on  INNOVATIVE-METHODS-OF-TEACHING-AND-LEARNING-FOR-EDUCATION .
 The paper "Innovative Methods of Teaching and Learning for Education 2024" explores new approaches like problem-based learning and flipped classrooms to enhance education outcomes, emphasizing creativity, critical thinking, and technology integration.
@@ -8,7 +8,7 @@ institutions has potential not only to improve education but also to empower peo
 
 
 
-Research Paper 2: AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM.
+Research Paper #2: AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM.
 
 Automatic Number Plate Recognition (ANPR) is a technology like magic for reading vehicle license plates. Instead of needing a person to look at a camera feed, ANPR uses image processing to automatically identify and decipher the letters and numbers on a plate. This can be done in real-time from videos or from still images.
 
