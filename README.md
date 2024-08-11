@@ -12,5 +12,5 @@ Research Paper #2: AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM.
 
 Automatic Number Plate Recognition (ANPR) is a technology like magic for reading vehicle license plates. Instead of needing a person to look at a camera feed, ANPR uses image processing to automatically identify and decipher the letters and numbers on a plate. This can be done in real-time from videos or from still images.
 
-OPERATING ENVIRONMENT: FRONT END: HTML, CSS, JINJA, Python(flask). BACK END: Python. DATABASE: Firebase, SQL. Other API'S: TensorFlow Lite, Google Cloud Vision API. Applicatio Type:Client Server Application. Operating System: Windows & or Heigher/MAC OS/LINUX. Browser: Google Chrome, Microsoft Edge. Devices: Smart Phones/Desktop.
+OPERATING ENVIRONMENT: FRONT END: HTML, CSS, JINJA, Python(flask). BACK END: Python. DATABASE: Firebase, SQL. Other API'S: TensorFlow Lite, Google Cloud Vision API. Application Type:Client Server Application. Operating System: Windows & or Heigher/MAC OS/LINUX. Browser: Google Chrome, Microsoft Edge. Devices: Smart Phones/Desktop.
 
